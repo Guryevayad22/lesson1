@@ -16,4 +16,11 @@ def add_fractions(a, b, c, d):
     Должна возвращать числитель и знаменатель дроби-результата
     """
     return Ellipsis # Напишите тело функции и правильный return
+    up = x = a*d + c*b
+    down = y = b*d
+
+    while x != 0 and y != 0:
+        if
+
+
 
